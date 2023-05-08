@@ -9,6 +9,7 @@ The bot has some GUI implemented with Tkinter. In the GUI you can tweak followin
 a part of other word, we will dislike the profile. Regex pattern matching is used to achieve that.
 4. Send message to a new match. You can add a bunch of random greeting messages and bot can randomly pick one to send to a new match, if we encounter one.
 5. Set the chance of like.
+6. Set your location.
 
 To use this bot, clone the repo and launch TinderBot.py - this is an entry file. You should have Google Chrome installed.
 
