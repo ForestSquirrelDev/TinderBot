@@ -10,7 +10,7 @@ a part of other word, we will dislike the profile. Regex pattern matching is use
 4. Send message to a new match. You can add a bunch of random greeting messages and bot can randomly pick one to send to a new match, if we encounter one.
 5. Set the chance of like.
 
-To use this bot, clone the repo and launch TinderBot.py. You should have Google Chrome installed.
+To use this bot, clone the repo and launch TinderBot.py - this is an entry file. You should have Google Chrome installed.
 
 Here's a small video, demonstrating how it works:
 https://youtu.be/dF6HK3yjGyU
