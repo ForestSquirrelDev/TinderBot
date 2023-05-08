@@ -10,7 +10,7 @@ The bot does not use machine learning or any other fancy way of swiping profiles
 5. Set the chance of like.
 6. Set your location.
 
-To use this bot, clone the repo and launch TinderBot.py - this is an entry file. You should have Google Chrome installed.
+This was supposed to be an executable file, encrypted with Pyarmor. But you can aswell clone the repository and launch TinderBot.py, which happens to be entry file. You should have Google Chrome installed.
 
 Here's a small video, demonstrating how it works:
 https://youtu.be/dF6HK3yjGyU
