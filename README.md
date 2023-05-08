@@ -2,7 +2,7 @@
 
 This is an autoswipe Tinder bot. As the name suggests, it swipes Tinder profiles for you. It has simple GUI implemented with Tkinter.
 
-The bot does not use machine learning or any other fancy way of swiping profiles. It has a set of basic rules to pick from:
+The bot does not use machine learning or any other fancy decision-making ways. It has a set of basic rules to pick from:
 1. Dislike profiles with empty description.
 2. Dislike profiles, where description consists only of Instagram link.
 3. Add "stop-words" to dislike profile, if found any. For example, you can add "420" as a stop-word, and if we encounter this as a separate word, we will dislike the profile. Regex pattern matching is used.
