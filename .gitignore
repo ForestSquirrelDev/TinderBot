@@ -1,0 +1,13 @@
+venv
+.idea
+constants.py
+data/
+dist
+build
+chrome_profile/
+.vs
+__pycache__/
+settings.json
+log.txt
+sign
+log.txt
