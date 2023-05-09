@@ -1,6 +1,8 @@
 # What is this?
 
-This is an autoswipe Tinder bot. As the name suggests, it swipes Tinder profiles for you. It has simple GUI implemented with Tkinter.
+This is an autoswipe Tinder bot. As the name suggests, it swipes Tinder profiles for you. It uses Selenium browser automation framework and Tkinter GUI.
+
+![image](https://github.com/ForestSquirrelDev/TinderBot/assets/82777171/9e79a431-265c-435b-83cc-8fb943e77ca6)
 
 The bot does not use machine learning or any other fancy decision-making ways. It has a set of basic rules to pick from:
 1. Dislike profiles with empty description.
@@ -17,7 +19,7 @@ https://youtu.be/dF6HK3yjGyU
 
 Note that the GUI is in not in english. I have no intentions of implementing a proper localization system, as i dropped this project.
 
-Another very important note: when i was building this app, speed was crucial. I needed to test the hypothesis as quick is possible. Expect to see every programming sin, if you dare to read through code.
+Another very important note: when i was building this app, speed was crucial. I needed to test the hypothesis as quick is possible. Don't be surprised by lots of programming sins as you read through code.
 Speed/code quality proportions in this project are 100/0.
 
-The market hypothesis i was trying out proved to be false, but i still had a lot of fun with browser automation and learning Python on fly as i wrote this project.
+The customer market hypothesis i was trying out proved to be false, but i still had a lot of fun with browser automation and learning Python on fly as i wrote this project.
